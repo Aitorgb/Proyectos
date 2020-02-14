@@ -1,4 +1,5 @@
 Name:Ironhacker 
 Age: 26
-Favorite Color: Red
-Hello word! 
+Favorite Color: Yellow
+Hello word!
+Bye Word!
